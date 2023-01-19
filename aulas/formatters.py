@@ -12,7 +12,8 @@ n2 = 2
 divisao = n1 / n2
 print(f'{divisao:.2f}')
 
-nome = 'Carlos Henrique Addams'
+nome = 'carlos henrique addams'
 print(nome.upper())
 print(nome.lower())
 print(nome.title())
+print(nome.islower())
